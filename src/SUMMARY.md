@@ -43,3 +43,7 @@
     - [第三十八章](./dejing/chapter_38.md)
     - [第三十九章](./dejing/chapter_39.md)
     - [第四十章](./dejing/chapter_40.md)
+    - [第四十一章](./dejing/chapter_41.md)
+    - [第四十二章](./dejing/chapter_42.md)
+    - [第四十三章](./dejing/chapter_43.md)
+    - [第四十四章](./dejing/chapter_44.md)
