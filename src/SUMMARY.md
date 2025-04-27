@@ -25,7 +25,6 @@
     - [第二十一章](./dejing/chapter_21.md)
     - [第二十二章](./dejing/chapter_22.md)
     - [第二十三章](./dejing/chapter_23.md)
-    - [第二十三章](./dejing/chapter_23.md)
     - [第二十四章](./dejing/chapter_24.md)
     - [第二十五章](./dejing/chapter_25.md)
     - [第二十六章](./dejing/chapter_26.md)
